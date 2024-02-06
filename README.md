@@ -1,11 +1,29 @@
-# Behavior Documentation
+---
+title: "Hello, Quarto"
+format: html
+---
 
-```python
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-from allensdk.core.brain_observatory_cache import BrainObservatoryCache
+## Markdown
 
-%matplotlib inline
+Markdown is an easy to read and write text format:
 
-print('hello world')
+- It's _plain text_ so works well with version control
+- It can be **rendered** into HTML, PDF, and more
+- Learn more at: <https://quarto.org/docs/authoring/>
+
+## Code Cell
+
+Here is a Python code cell:
+
+```{python}
+import os
+os.cpu_count()
+```
+
+## Equation
+
+Use LaTeX to write equations:
+
+$$
+\chi' = \sum_{i=1}^n k_i s_i^2
+$$
