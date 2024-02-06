@@ -1,7 +1,3 @@
----
-title: "Hello, Quarto"
-format: html
----
 
 ## Markdown
 
