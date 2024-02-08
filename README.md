@@ -14,6 +14,7 @@ Here is a Python code cell:
 ```{python}
 import os
 os.cpu_count()
+print('all good')
 ```
 
 ## Equation
