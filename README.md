@@ -5,7 +5,7 @@ Markdown is an easy to read and write text format:
 
 - It's _plain text_ so works well with version control
 - It can be **rendered** into HTML, PDF, and more
-- Learn more at: <https://quarto.org/docs/authoring/>
+- Learn more at: [<https://quarto.org/docs/authoring/>](https://github.com/cebals01/Behavior/blob/main/readme.html)
 
 ## Code Cell
 
