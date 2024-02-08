@@ -5,7 +5,7 @@ Markdown is an easy to read and write text format:
 
 - It's _plain text_ so works well with version control
 - It can be **rendered** into HTML, PDF, and more
-- Learn more at: https://github.com/cebals01/Behavior/blob/main/readme.html
+- Learn more at:
 
 ## Code Cell
 
