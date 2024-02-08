@@ -1,9 +1,4 @@
----
-title: "Hello"
-format: Markdown
----
-
-## Markdown
+## Documentation
 
 Markdown is an easy to read and write text format:
 
