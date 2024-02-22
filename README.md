@@ -6,8 +6,8 @@
 - Preprocessing
 
 1 - Update dictionary
-2 - Run suite2p for motion correction
-3 - Extract triggers from Trials that had imaging 
+2 - Run suite2p for motion correction      
+3 - Extract triggers from Trials that had imaging     
     result: ["DATA_folder"] + mouse_name + '_dict_triggers'
 
 - Behavior 
