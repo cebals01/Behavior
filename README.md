@@ -16,6 +16,15 @@
 2 - Generate files for each trial, raw and motion correction data               
     result_1 : ["trials_arrays_folder"] + mouse_name + '_' + trialkey + '_trial_frames_arr.npy'                           
     result_2 : ["trials_arrays_folder"] + mouse_name + '_' + trialkey + '_trial_frames_arr_mc.npy'                     
+3 - Check raw and check             
+4 - avg_imgs_after_stim_mc
+5 - 
+
+
+
+
+
+
 
 
 Markdown is an easy to read and write text format:
