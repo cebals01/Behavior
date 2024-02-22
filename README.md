@@ -13,9 +13,9 @@
 - Behavior      
 
 1 - Load triggers for TIFFs frames extraction.        
-2 - Generate files for each trial, raw and motion correction data        
- 
-
+2 - Generate files for each trial, raw and motion correction data               
+    result_1 : ["trials_arrays_folder"] + mouse_name + '_' + trialkey + '_trial_frames_arr.npy'              
+    result_2 : ["trials_arrays_folder"] + mouse_name + '_' + trialkey + '_trial_frames_arr_mc.npy'               
 
 
 Markdown is an easy to read and write text format:
