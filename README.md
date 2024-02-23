@@ -1,6 +1,10 @@
 ## Documentation
 
 ### Pipeline for 2P and behavior.
+#### Initial Mapping         
+0 - zstack with 
+
+### Pipeline for 2P and behavior.
 /Users/cebals01/Dropbox (Personal)/_nPROJECTS/Olfaction/_CODE/_Data/traits_p3GUI/Developing/2P_StimAndRecord.py
 /Users/cebals01/Dropbox (Personal)/_nPROJECTS/Olfaction/_RESULTS/KatyaExps.ai
 /Users/cebals01/Dropbox (Personal)/_nPROJECTS/Olfaction/_CODE/_Data/Copilot/4_2PImagingAndStim.ipynb
